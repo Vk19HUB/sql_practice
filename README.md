@@ -22,5 +22,3 @@ This repository contains SQL queries that serve as practice exercises for basic 
 - **Query 3**: Get the highest-paid employee.
 - **Query 4**: Count employees in each department.
 - **Query 5**: Get employees who joined after Jan 1, 2021.
-=======
-# Coding-Challenges
